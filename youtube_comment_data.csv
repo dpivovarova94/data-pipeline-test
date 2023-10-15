@@ -1,0 +1,47 @@
+,author,comment,published_at
+0,Darshil Parmar,"EDIT:
+Elon Musk ruined the API part, you can use some other APIs
+
+Here's one of the subscriber built the same project using other APIs - https://chenmeiqiao.notion.site/How-I-Reach-Out-to-YouTubers-I-Like-As-A-Data-Engineer-c37bdddefde54c3789229ffa5a789432
+
+or you can use a static dataset from Kaggle and then use Airflow to process it
+https://www.kaggle.com/datasets/mmmarchetti/tweets-dataset
+
+FAQ:
+1. Twitter removed free access: It still has free access but with limits of requests you can make - https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api
+
+2. You need to request for V2 access: You will get an error but just by reading the doc you should be able to access Elevated Access
+
+
+Worked very hard for this project🤞
+Don’t forget to hit the like button and if you want to support my work you can join channel membership, it's only 59rs per month so that I can keep these content for free",2022-09-20T12:06:19Z
+1,Vilayat Khan,"the api is broken, the whole  twitter api is convoluted  mess!!!!!!!!!!! so much time wasted on this bs. twitter api has 2 versions: 1.1 and v2. each version has its own limitations, by-default behavior etc. be careful.
+
+you cant get your own tweets under free tier",2023-10-11T01:17:21Z
+2,Moeketse Kuenane,"Darshil is just amazing 😊 . Good content! 
+
+Ah Whatever is happening to the twitter API doesn’t really matter 😂",2023-10-09T14:04:26Z
+3,rohit hatwar,Brother we want a full tutorial playlist on data engieering course please make it.....,2023-10-07T17:32:10Z
+4,Shah 7998,"access_key = ""2YgYzTpTi0RFyRcsLrV3RNHos""
+    access_secret = ""vuw9fnWrzWYJPW1kVEo2FS7KcTu5jmW90DkO6ImGsBBZ3"" 
+    consumer_key = ""902460306793709568-WGgN1ClUClT7EHHJEncuHsQmopdwSR1"" 
+    consumer_secret = ""LxEynM4eZ9Au6LDdTnOUq02ZMkhZtrV9Dmsj0H1GoC5LIZAdOE""
+
+trying this from 3 days not working can u please help in this im beginner",2023-10-07T15:10:55Z
+5,Shah 7998,How to use airflow bhai??,2023-10-07T12:17:59Z
+6,Mohamed IDRISSI GHALMI,Who else is sad cuz Twitter's API is no longer free?,2023-10-03T13:57:37Z
+7,Pally Bhargava Reddy,"@DarshilParmar if the data is flowing continuously into S3 , the new added data will be appended to existing file or table or it creates a new file?",2023-10-01T13:28:26Z
+8,Bilal Hassan Khan,This is what exactly whay I'm looking for! Thanks brother.,2023-10-01T03:37:17Z
+9,Sergey Fia,"good video, very detailed",2023-09-26T11:14:42Z
+10,chandrakant singh,"Thanks for creating this project, with the help of this i schedule my data extraction task ,currently i am using  solcast API  to fetch weather data .",2023-09-25T18:22:28Z
+11,mohsin rajpoot,can we install airflow locally instead of ec2? and we installed it on ec2,2023-09-23T18:28:56Z
+12,mohsin rajpoot,great work you helping lot of people.,2023-09-23T18:16:35Z
+13,Mohamed Te3ima,You missed the part when you actually create DAG task in airflow at the end of you video,2023-09-22T22:30:07Z
+14,Mrc Rblr,"Amazing Video Darshil, i really appreciate your video, you are a great professor!! Thank you very much keep doing this great content!!",2023-09-19T21:47:21Z
+15,bibhash dutta,"Thanks for this content, i couldnt use the api as you mentioned for elon musk😢but instead used beautifulsoup and selenium to get data from imdb, aws and airflow content is🎉
+
+Also going through your data warehouse course, just amazing",2023-09-14T23:14:14Z
+16,Tran Tuyet Minh,"when im running airflow standalone, it seem like running but i cant see the username and password, and of course I cant connect to PUBLIC IPV4 DNS, please help me, I cant find solution anywhere",2023-09-13T15:08:30Z
+17,rohit pant,"Hi darshil, May I know that were we going with the t3 medium in the EC2 instance setup?",2023-09-10T15:47:06Z
+18,Hari Srinivasa Reddy,"Awesome demonstration, truly appreciated l, waiting to see lot more soon",2023-09-06T06:00:03Z
+19,vuruputuri praneeth,"Hi Darshil, was trying to implement the same project but unfortunately. I was prompted with a forbidden request. can you explain to me what the reason might be??",2023-09-05T18:58:36Z
